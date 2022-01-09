@@ -44,7 +44,7 @@ return [
     */
 
     'models' => [
-        'namespace' => 'tcg\\Voyager\\Models',
+        'namespace' => 'TCG\\Voyager\\Models',
     ],
 
     /*
